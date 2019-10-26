@@ -3,7 +3,7 @@ def construct_graph(n,W,R,t):
     # n=5
     # print("enter number of games won by each team")
     # W=[0,0,0,0,0]
-    # print("numbre of mathes remaining btw R and W")
+    # print("numbre of matches remaining between R and W")
     # R=[[0,4,4,4,4],[4,0,4,4,4],[4,4,0,4,4],[4,4,4,0,4],[4,4,4,4,0]]
     #number of game nodes is number matches in the upper triangular matrix
 
